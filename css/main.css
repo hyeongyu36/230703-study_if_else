@@ -442,11 +442,11 @@ span.next_btn {
     position: static;
   }
   .gnb {
-    display: flex;
+    display: flex !important;
     flex-direction: row;
     position: static;
     width: 100%;
-    text-shadow: ;
+    text-shadow: 0px 1px 1px #25ab5e;
   }
   .gnb li {
     display: block;
